@@ -90,3 +90,6 @@ git checkout feature/watchlist
 ```
 
 The open PR and the maintainer's review comments are filed on GitHub. Work through each comment and document your responses in your **PR Response Doc**.
+
+<img width="882" height="277" alt="Screenshot 2026-07-14 195009" src="https://github.com/user-attachments/assets/ceca8d08-0a64-4e05-b152-516a71fd55cd" />
+
